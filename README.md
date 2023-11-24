@@ -13,3 +13,8 @@
 
 # git
 for not upload node_modules remove / node_modules in dependecies
+
+# CRUD :- create react update delete
+
+# express validator
+npm install --save express-validation
